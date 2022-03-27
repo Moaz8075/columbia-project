@@ -1,0 +1,48 @@
+.br-small {
+  border-radius: 5px;
+}
+.br-medium {
+  border-radius: 10px;
+}
+.br-large {
+  border-radius: 20px;
+}
+.type-small {
+  width: 234px;
+  height: 234px;
+}
+.type-medium {
+  width: 50%;
+  height: 234px;
+}
+.type-large {
+  width: 100%;
+  height: 65vh;
+}
+
+.shadow-small {
+  box-shadow: 0px 05px 30px 05px rgb(197, 197, 197);
+}
+.shadow-medium {
+  box-shadow: 0px 5px 20px 5px rgb(192, 192, 192);
+}
+
+.align-text-center {
+  text-align: center;
+}
+
+.lineBreak {
+  word-wrap: break-word;
+  text-overflow: ellipsis;
+}
+
+.width-small {
+  width: 234px;
+}
+
+.width-large {
+  width: 100%;
+}
+.pointer {
+  cursor: pointer;
+}

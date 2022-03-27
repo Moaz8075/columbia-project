@@ -1,0 +1,8 @@
+.grid {
+  display: grid;
+}
+
+.grid-col-review {
+  grid-template-columns: auto auto;
+  column-gap: 25px;
+}

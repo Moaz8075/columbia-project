@@ -1,0 +1,37 @@
+.sidebar-wrapper {
+  min-height: 100vh;
+  width: 306px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.sidebar {
+  padding: 30px;
+  height: 80%;
+  background-color: #ffffff;
+}
+
+.contact-btn {
+  background-color: #1d4f91;
+  color: #ffffff;
+  height: 48px;
+  width: 100%;
+  font-size: 16px;
+  border-radius: 5px;
+  border-style: none;
+}
+
+.contact-btn:hover {
+  background-color: #333333;
+}
+
+.contact-btn:active {
+  background-color: #333333;
+}
+
+.sidebar-footer {
+  padding: 30px;
+  background-color: #1d4f91;
+  color: #ffffff;
+}

@@ -1,0 +1,10 @@
+.normalLink {
+  color: #696969;
+  font-size: 18px;
+  text-decoration: none;
+}
+.active {
+  color: #ae8a43;
+  font-size: 18px;
+  text-decoration: none;
+}

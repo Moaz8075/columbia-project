@@ -1,0 +1,16 @@
+.fox-btn {
+  max-width: 258px !important;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+.fox-image-position {
+  position: relative;
+  left: 25%;
+  bottom: 20px;
+}
+
+.news-grid {
+  display: grid;
+  grid-template-columns: auto auto;
+  column-gap: 20px;
+}

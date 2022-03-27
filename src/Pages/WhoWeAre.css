@@ -1,0 +1,26 @@
+.text1 {
+  font-family: Georgia;
+}
+
+.human {
+  width: 498px;
+  height: 649px;
+}
+.bottom {
+  margin-right: 10px;
+  margin-bottom: 30px;
+}
+
+.mt-50 {
+  margin-top: 50px;
+  margin-bottom: 0px;
+}
+
+.h-60 {
+  max-height: 90vh;
+  overflow: auto;
+}
+
+.h-60::-webkit-scrollbar {
+  display: none;
+}
